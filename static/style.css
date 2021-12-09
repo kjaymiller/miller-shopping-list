@@ -732,8 +732,8 @@ ul li {
   }
 }
 
-.justify-items-center {
-  justify-items: center;
+.justify-around {
+  justify-content: space-around;
 }
 
 .text-lg {
