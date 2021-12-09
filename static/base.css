@@ -20,4 +20,10 @@ h3 {
     @apply font-bold;
     @apply my-3;
 }
+
+ul {
+  list-style: circle;
 }
+
+}
+
