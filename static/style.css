@@ -752,6 +752,10 @@ ul li {
   text-decoration: underline;
 }
 
+.no-underline {
+  text-decoration: none;
+}
+
 *, ::before, ::after {
   --tw-shadow: 0 0 #0000;
 }
