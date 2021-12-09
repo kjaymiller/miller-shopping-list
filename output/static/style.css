@@ -649,6 +649,10 @@ ul li {
   margin-right: auto;
 }
 
+.mb-4 {
+  margin-bottom: 1rem;
+}
+
 .table {
   display: table;
 }
@@ -729,6 +733,11 @@ ul li {
   line-height: 1.75rem;
 }
 
+.text-4xl {
+  font-size: 2.25rem;
+  line-height: 2.5rem;
+}
+
 .text-blue-400 {
   --tw-text-opacity: 1;
   color: rgba(96, 165, 250, var(--tw-text-opacity));
@@ -752,5 +761,5 @@ ul li {
 }
 
 .container img {
-  .max-width: 100%
+  .max-width: 75%
 }
