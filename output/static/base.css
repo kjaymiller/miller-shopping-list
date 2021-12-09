@@ -38,6 +38,6 @@ ul li {
 
 }
 
-.container img {
-    .max-width: 35%
+container img {
+    @apply max-w-2xl;
 }
