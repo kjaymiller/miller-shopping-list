@@ -658,6 +658,10 @@ ul li {
   margin-bottom: 1rem;
 }
 
+.flex {
+  display: flex;
+}
+
 .table {
   display: table;
 }
@@ -726,6 +730,10 @@ ul li {
     -webkit-animation-timing-function: cubic-bezier(0,0,0.2,1);
             animation-timing-function: cubic-bezier(0,0,0.2,1);
   }
+}
+
+.justify-center {
+  justify-content: center;
 }
 
 .text-lg {
