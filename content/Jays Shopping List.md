@@ -8,8 +8,11 @@ date: 08 Dec 2021 13:28
 
 
 ## Always Out of Stock
+
 * [Love Black Cxffee Tumbler](https://cxffeeblack.com/collections/all/products/love-black-miir-12oz-tumbler-preorder-ships-october)
+
 ## $100+
+
 * [Hullo ](https://hullopillow.com/buckwheat-pillow/)
 * PlotterUSA Kit
 	* [Shrink 6-Ring Leather Binder](https://plotterusa.com/products/shrink-6-ring-leather-binder-plt5003-a5-size/) 
@@ -17,11 +20,13 @@ date: 08 Dec 2021 13:28
 	* [To Do List 50 sheets PLT0006 (A5 Size)](https://plotterusa.com/products/to-do-list-50-sheets-plt0006-a5-size/)
 	*  [4mm Dot Grid 40 sheets 2 books PLT0014 (A4 Size) - Plotter](https://plotterusa.com/products/4mm-dot-grid-40-sheets-2-books-plt0014-a4-size/)
 	*  [4mm Dot Grid Notepad 80 sheets PLT0014 (A5 Size) - Plotter](https://plotterusa.com/products/4mm-dot-grid-notepad-80-sheets-plt0014-a5-size/)
+
 ## $50-100 ##
 
-[Elevation Shelf XL | ElevationLab](https://www.elevationlab.com/products/elevationshelf-xl)![Shelf ](https://cdn.shopify.com/s/files/1/0131/4552/files/ESL-300_1.jpg?v=1611701254)
+* [Elevation Shelf XL | ElevationLab](https://www.elevationlab.com/products/elevationshelf-xl)![Shelf ](https://cdn.shopify.com/s/files/1/0131/4552/files/ESL-300_1.jpg?v=1611701254)
 
 ## <$50
+
 * [Aggretsuko T-Shirt](https://www.amazon.com/Aggretsuko-Kawaii-Rage-T-Shirt/dp/B07TGWF9SR/ref=sr_1_5?customId=B0752XQVHY&th=1&psc=1)
 * [Pilot Iroshizuku Murasaki-shikibu - 50ml Bottled Ink](https://www.gouletpens.com/collections/pilot-ink/products/pilot-iroshizuku-murasaki-shikibu-50ml-bottled-ink?variant=11884757581867)
 * [Pilot Iroshizuku Ebisu - 50ml Bottled Ink (100th Anniversary Limited Edition)](https://www.gouletpens.com/collections/pilot-ink/products/pilot-iroshizuku-ebisu-50ml-bottled-ink?variant=15394926067755)

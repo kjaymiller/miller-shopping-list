@@ -21,8 +21,8 @@ h3 {
     @apply my-3;
 }
 
-ul {
-  list-style: circle;
+ul li {
+  list-style: disc;
 }
 
 }
