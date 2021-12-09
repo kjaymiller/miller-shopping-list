@@ -2,6 +2,7 @@ from render_engine import Site, Page, Collection, Blog
 
 
 site = Site()
+site.SITE_TITLE = 'The Miller Wishlist'
 
 @site.register_route
 class Index(Page):

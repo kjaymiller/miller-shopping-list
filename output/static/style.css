@@ -751,3 +751,6 @@ ul li {
   --tw-ring-shadow: 0 0 #0000;
 }
 
+.container img {
+  .max-width: 100%
+}

@@ -15,7 +15,7 @@ date: 08 Dec 2021 13:28
 
 * [Hullo ](https://hullopillow.com/buckwheat-pillow/)
 * PlotterUSA Kit
-	* [Shrink 6-Ring Leather Binder](https://plotterusa.com/products/shrink-6-ring-leather-binder-plt5003-a5-size/) 
+* [Shrink 6-Ring Leather Binder](https://plotterusa.com/products/shrink-6-ring-leather-binder-plt5003-a5-size/) 
 	* [Project Manager 6 Colors Assortment PLT0008 (A5 Size)](https://plotterusa.com/products/project-manager-6-colors-assortment-plt0008-a5-size/)
 	* [To Do List 50 sheets PLT0006 (A5 Size)](https://plotterusa.com/products/to-do-list-50-sheets-plt0006-a5-size/)
 	*  [4mm Dot Grid 40 sheets 2 books PLT0014 (A4 Size) - Plotter](https://plotterusa.com/products/4mm-dot-grid-40-sheets-2-books-plt0014-a4-size/)
