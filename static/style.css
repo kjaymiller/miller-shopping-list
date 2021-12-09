@@ -583,10 +583,13 @@ p {
 }
 
 h1 {
+  font-size: 1.25rem;
+  line-height: 1.75rem;
   font-weight: 700
 }
 
 h2 {
+  @appy text-lg;
   font-weight: 700;
   margin-top: 1rem;
   margin-bottom: 1rem;
@@ -596,6 +599,11 @@ h3 {
   font-weight: 700;
   margin-top: 0.75rem;
   margin-bottom: 0.75rem;
+}
+
+ul {
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
 }
 
 ul li {

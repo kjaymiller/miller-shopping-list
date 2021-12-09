@@ -6,12 +6,18 @@
 a {
   @apply underline;
 }
+
 p {
  @apply m-2;
 }
 
-h1 {@apply font-bold}
+h1 {
+    @apply text-xl;
+    @apply font-bold
+}
+
 h2 {
+    @appy text-lg;
     @apply font-bold;
     @apply my-4;
 }
@@ -19,6 +25,10 @@ h2 {
 h3 {
     @apply font-bold;
     @apply my-3;
+}
+
+ul { 
+   @apply mx-2;
 }
 
 ul li {
