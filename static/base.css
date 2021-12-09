@@ -33,6 +33,7 @@ ul {
 
 ul li {
   list-style: disc;
+  @apply mb-2;
 }
 
 }

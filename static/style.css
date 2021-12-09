@@ -642,6 +642,7 @@ ul {
 
 ul li {
   list-style: disc;
+  margin-bottom: 0.5rem;
 }
 
 .mx-auto {
