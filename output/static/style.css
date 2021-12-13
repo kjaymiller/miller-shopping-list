@@ -581,3 +581,7 @@ ul li {
 img {
   max-width: 33%;
 }
+
+div {
+  padding: 1rem;
+}
