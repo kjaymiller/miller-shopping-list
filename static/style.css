@@ -504,7 +504,7 @@ ul {
   margin-right: 0.5rem;
 }
 
-ul li {
+.content ul li {
   list-style: disc;
   margin-bottom: 0.5rem;
 }

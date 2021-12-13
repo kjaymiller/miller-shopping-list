@@ -31,7 +31,7 @@ ul {
    @apply mx-2;
 }
 
-ul li {
+.content ul li {
   list-style: disc;
   @apply mb-2;
 }
