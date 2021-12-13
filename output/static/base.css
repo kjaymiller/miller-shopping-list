@@ -32,10 +32,10 @@ ul {
 }
 
 .content ul li {
-  list-style: disc;
   @apply mb-2;
-}
-
+  @apply p-2;
+  @apply border;
+  @apply rounded-lg;
 }
 
 img {
