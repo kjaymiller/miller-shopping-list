@@ -505,8 +505,18 @@ ul {
 }
 
 .content ul li {
-  list-style: disc;
   margin-bottom: 0.5rem;
+  padding: 0.5rem;
+  border-width: 1px;
+  border-radius: 0.5rem;
+}
+
+img {
+  max-width: 33%;
+}
+
+div {
+  padding: 1rem;
 }
 
 .my-3 {
@@ -576,12 +586,4 @@ ul {
 .drop-shadow-xl {
   --tw-drop-shadow: drop-shadow(0 20px 13px rgb(0 0 0 / 0.03)) drop-shadow(0 8px 5px rgb(0 0 0 / 0.08));
   filter: var(--tw-filter);
-}
-
-img {
-  max-width: 33%;
-}
-
-div {
-  padding: 1rem;
 }
