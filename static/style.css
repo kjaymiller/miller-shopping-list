@@ -527,6 +527,12 @@ ul li {
   display: flex;
 }
 
+.min-w-fit {
+  min-width: -webkit-fit-content;
+  min-width: -moz-fit-content;
+  min-width: fit-content;
+}
+
 .justify-around {
   justify-content: space-around;
 }
