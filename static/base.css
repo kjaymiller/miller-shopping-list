@@ -38,14 +38,14 @@ ul {
 
 
 .content ul li {
-  @apply mb-2;
+  @apply m-2;
   @apply p-2;
   @apply border;
   @apply rounded-lg;
 }
 
 img {
-    max-width: 33%;
+    max-width: 50%;
 }
 
 div {

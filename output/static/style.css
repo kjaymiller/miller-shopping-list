@@ -511,14 +511,14 @@ ul {
 }
 
 .content ul li {
-  margin-bottom: 0.5rem;
+  margin: 0.5rem;
   padding: 0.5rem;
   border-width: 1px;
   border-radius: 0.5rem;
 }
 
 img {
-  max-width: 33%;
+  max-width: 50%;
 }
 
 div {
