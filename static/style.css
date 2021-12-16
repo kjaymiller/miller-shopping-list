@@ -504,6 +504,10 @@ ul {
   margin-right: 0.5rem;
 }
 
+.content ul {
+  display: flex;
+}
+
 .content ul li {
   margin-bottom: 0.5rem;
   padding: 0.5rem;

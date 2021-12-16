@@ -31,6 +31,11 @@ ul {
    @apply mx-2;
 }
 
+.content ul {
+    @apply flex;
+}
+
+
 .content ul li {
   @apply mb-2;
   @apply p-2;
