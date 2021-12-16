@@ -481,19 +481,21 @@ p {
 }
 
 h1 {
-  font-size: 1.25rem;
-  line-height: 1.75rem;
+  font-size: 1.5rem;
+  line-height: 2rem;
   font-weight: 700;
 }
 
 h2 {
-  @appy text-lg;
+  @appy text-xl;
   font-weight: 700;
   margin-top: 1rem;
   margin-bottom: 1rem;
 }
 
 h3 {
+  font-size: 1.125rem;
+  line-height: 1.75rem;
   font-weight: 700;
   margin-top: 0.75rem;
   margin-bottom: 0.75rem;
