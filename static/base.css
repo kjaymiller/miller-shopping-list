@@ -43,11 +43,12 @@ ul {
   @apply p-2;
   @apply border;
   @apply rounded-lg;
+  min-width: 350px;
 }
 
 img {
     max-width: 50%;
-    min-width: 350px;
+    min-width: 250px;
 }
 
 div {
