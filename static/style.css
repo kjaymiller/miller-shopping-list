@@ -508,6 +508,7 @@ ul {
 
 .content ul {
   display: flex;
+  flex-wrap: wrap;
 }
 
 .content ul li {
@@ -519,6 +520,7 @@ ul {
 
 img {
   max-width: 50%;
+  min-width: 350px;
 }
 
 div {
