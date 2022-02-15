@@ -43,7 +43,11 @@ ul {
   @apply p-2;
   @apply border;
   @apply rounded-lg;
-  min-width: 350px;
+  max-width: 350px;
+}
+
+ul li img {
+    width: 250px;
 }
 
 img {
